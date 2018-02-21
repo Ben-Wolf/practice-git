@@ -1,7 +1,1 @@
-# Contributors
-
-Benjamin Wolf
-
-Nikhilas Murthy
-
-Todd Louison
+echo "Hello World"
